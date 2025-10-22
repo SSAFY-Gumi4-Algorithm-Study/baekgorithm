@@ -1,4 +1,3 @@
-package 백고리즘.baekgorithm.Gold;
 
 import java.io.BufferedReader;
 import java.io.IOException;
